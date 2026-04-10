@@ -9,18 +9,18 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Gabriel Sousa Aguiar
+- Matricula: 916332
+- Proposta de projeto escolhida: Lugares e Experiências 
+- Breve descrição sobre seu projeto: Uma homepage feita como forma de divulgar pontos turísticos da Noruega e contribuir com o turismo
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+![aberto  no pc](public/images/sit_aberto.jpeg)
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+![mobile](public/images/responsa_mobile.jpeg)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
